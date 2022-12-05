@@ -6,7 +6,7 @@ import './Register.css';
 import auth from '../../firebase/firebase.init';
 
 //mui materials
-import {Container, Typography, Button, Grid, Divider, Chip, TextField} from '@mui/material';
+import {Container, Typography, Button, Grid, Divider, Chip} from '@mui/material';
 //react hook form
 import {useForm} from 'react-hook-form'
 //Google Sing up
