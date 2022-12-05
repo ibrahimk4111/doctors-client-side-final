@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Doctors-portal/static/css/main.f5e60aa9.css",
+    "main.js": "/Doctors-portal/static/js/main.9d9186f0.js",
+    "static/js/787.dd1a23d4.chunk.js": "/Doctors-portal/static/js/787.dd1a23d4.chunk.js",
+    "static/media/appointment.png": "/Doctors-portal/static/media/appointment.d0d01a86a1465e3f2562.png",
+    "static/media/bg.png": "/Doctors-portal/static/media/bg.33b42bf92e2d9dd33b67.png",
+    "static/media/treatment.png": "/Doctors-portal/static/media/treatment.4663af1929c734cd3854.png",
+    "static/media/chair.png": "/Doctors-portal/static/media/chair.3ca333d1fa050f6e6eb4.png",
+    "static/media/doctor.png": "/Doctors-portal/static/media/doctor.0a279a5b65e8258865bf.png",
+    "static/media/login.png": "/Doctors-portal/static/media/login.fe92a7a6fbbbe860a134.png",
+    "index.html": "/Doctors-portal/index.html",
+    "static/media/quote.svg": "/Doctors-portal/static/media/quote.87e2bfcfdd22cf5584bc95a97e0a8433.svg",
+    "main.f5e60aa9.css.map": "/Doctors-portal/static/css/main.f5e60aa9.css.map",
+    "main.9d9186f0.js.map": "/Doctors-portal/static/js/main.9d9186f0.js.map",
+    "787.dd1a23d4.chunk.js.map": "/Doctors-portal/static/js/787.dd1a23d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e60aa9.css",
+    "static/js/main.9d9186f0.js"
+  ]
+}
