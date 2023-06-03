@@ -15,7 +15,7 @@ function Header() {
 
   const menuItems = <>
     <li>
-      <Link to="/">Home</Link>
+      <Link to="/doctors-client-side-final/">Home</Link>
     </li>
     <li>
       <Link to="/services">Services</Link>
