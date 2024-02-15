@@ -8,7 +8,7 @@ import Reviews from "./Components/Review/Reviews";
 import Register from "./Components/LogIn/Register";
 
 //react-router-dom
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import LogIn from "./Components/LogIn/LogIn";
 import PrivateRoute from "./Components/LogIn/PrivateRoute";
 import Dashboard from "./Components/Dashboard/Dashboard";
@@ -19,7 +19,7 @@ import DashboardHome from "./Components/Dashboard/DashboardHome";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <NavBar></NavBar>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -50,7 +50,7 @@ function App() {
           <Route path="/login" element={<LogIn />} />
           <Route path="/register" element={<Register />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
